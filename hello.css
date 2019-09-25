@@ -1,0 +1,26 @@
+.box{
+	background-color: red;
+
+}
+
+.box-title{
+	display: flex;
+    justify-content: center;
+    background-color: black;
+
+
+}
+
+.title{
+	color:red;
+
+}
+
+.box-p{
+
+}
+
+.p{
+	color: black;
+
+}
